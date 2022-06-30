@@ -12,5 +12,6 @@ public class git {
         System.out.println("hello,git4");
         System.out.println("hello,gitmaster");
         System.out.println("hello,git5");
+        System.out.println("gitclone test");
     }
 }
